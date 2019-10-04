@@ -14,8 +14,6 @@ The command for Fedora may not be the right one. I haven't used Fedora myself, s
 
 ## Changelog
 
-v0.1
-
-Initial version
+v0.1 (initial version)
 
 First version uploaded on GitHub
